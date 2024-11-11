@@ -22,8 +22,7 @@ I used the python `requests` module to call the API and pydantic for data valida
 
 Most of the code for repetable code calling the Metronome API and validating the responses is in the `/utils` folder. 
 
-~I created `unnest_json` function to preprocess the data for pandas. 
-You can see the code that calls the API in /utils. The rest of the data ETL code is part of the streamlit app in app.py.~
+You can see the code that calls the API in /utils. The rest of the data ETL code is part of the streamlit app in app.py.
 
 I decided to use duckdb for this task after using it for the second half of the assignment. Longer-term, that ergonomics of that for these types of queries is simpler and more straightforward than manipulating data. 
 
