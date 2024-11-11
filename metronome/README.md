@@ -20,6 +20,8 @@ All of the csv outputs, with corresponding screenshots, can be found in the `sub
 ### Task 1
 I used the python `requests` module to call the API and pydantic for data validation. I loaded those records into a duckdb table in memory for querying locally.
 
+Most of the code for repetable code calling the Metronome API and validating the responses is in the `/utils` folder. 
+
 ~I created `unnest_json` function to preprocess the data for pandas. 
 You can see the code that calls the API in /utils. The rest of the data ETL code is part of the streamlit app in app.py.~
 
