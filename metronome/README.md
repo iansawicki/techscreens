@@ -39,16 +39,7 @@ The consistent use of `id` made it easy to relate the data items. You can see th
 
 I eventually copied DB table schema INFO into GPT-4 and asked it to infer table relationships for me. This helped validate my assumptions. 
 
-
-### Table Relationships Map
-Here's the schema and relationships description in Markdown format:
-
 ---
-
-# Relational Database Schema Diagram and Table Relationships
-
-Based on the given table structures, here is a possible relational database schema diagram and relationship descriptions for the tables:
-
 ### Tables and Relationships
 
 1. **Table: `customer`**
