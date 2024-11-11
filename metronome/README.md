@@ -11,6 +11,8 @@
     - [x] Recreate the March invoice for customer A1 Company.
     - [x] Generate a report of billings by Plan for the month of March 2024
 
+## Submissions
+All of the csv outputs, with corresponding screenshots, can be found in the `submissions` subfolder found under each task folder, `task1/submissions` and `task2/submissions`.
 
 ## Approach
 *NOTE*: I did most of the work in notebooks. For task 1, it specifically asked for a script. This is the `invoicer.py` file.
