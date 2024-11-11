@@ -1,0 +1,4 @@
+name,customer_id,image_size,total_images
+,b1_company,"""1024x1024""",1212.0
+,b1_company,"""512×512""",1243.0
+,b1_company,"""256×256""",1309.0

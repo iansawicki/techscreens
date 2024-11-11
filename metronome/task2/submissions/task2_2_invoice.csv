@@ -1,0 +1,11 @@
+line_item_name,Description,Quantity,Unit Price,Total
+CPU Hours,CPU hours (c5.4xlarge),25.0,$0.01 USD,$0.25
+CPU Hours,CPU hours (c5.8xlarge),32.0,$0.02 USD,$0.58
+CPU Hours,CPU hours (m5.12xlarge),33.0,$0.25 USD,$8.25
+CPU Hours,CPU hours (m5.16xlarge),68.0,$0.03 USD,$2.38
+CPU Hours,CPU hours (m5.4xlarge),42.0,$0.02 USD,$0.92
+CPU Hours,CPU hours (r5.2xlarge),94.0,$0.22 USD,$20.68
+CPU Hours,CPU hours (r5.8xlarge),42.0,$0.01 USD,$0.59
+Storage,Storage GB-Hours (ca-central-1),7575.75,$0.0 USD,$11.36
+Storage,Storage GB-Hours (us-east-1),6347.25,$0.0 USD,$6.35
+Storage,Storage GB-Hours (us-east-2),18430.0,$0.0 USD,$20.27
